@@ -42,14 +42,16 @@ This project includes:
 ## 👨‍💻 Developer Info
 
 - **Name:** Yamini Shriwastav  
+- **Phone:** 9906312419  
 - **Email:** yaminishriwastav2002@gmail.com  
 - **GitHub:** [Yaminishriwastav](https://github.com/Yaminishriwastav)  
 - **LinkedIn:** [yamini-shriwastav-32576935a](https://www.linkedin.com/in/yamini-shriwastav-32576935a)
 
 ---
 
-## 📁 How to Run
+## 🔗 See Live
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Yaminishriwastav/portfolio-site.git
+👉 [View Live Portfolio Website](https://yaminishriwastav.github.io/Dyizan-MinorProject/)
+
+---
+
